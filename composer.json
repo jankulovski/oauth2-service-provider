@@ -1,6 +1,9 @@
 {
     "name": "kik01/o2l",
     "description": "o2l",
+    "keywords": ["o2l"],
+    "license": "MIT",
+    "type": "library",
     "require": {
         "lucadegasperi/oauth2-server-laravel": "^5.0"
     },
